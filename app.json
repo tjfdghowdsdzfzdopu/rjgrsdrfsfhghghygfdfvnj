@@ -1,6 +1,6 @@
 {
-  "name": "Xray-heroku2",
-  "description": "Xray-heroku2",
+  "name": "hbgyjy",
+  "description": "gthytu",
   "keywords": [
     "VMess VLESS"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/YeuaRwsh/Xray-heroku2",
-  "repository": "https://github.com/YeuaRwsh/Xray-heroku2",
+  "website": "",
+  "repository": "",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
